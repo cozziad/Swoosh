@@ -4,7 +4,7 @@ import android.content.Intent
 import android.view.View
 import android.os.Bundle
 import android.widget.Toast
-import com.ehword.swoosh.Utilities.EXTRA_LEAGUE
+import com.ehword.swoosh.Utilities.*
 import com.ehword.swoosh.R
 import kotlinx.android.synthetic.main.activity_league.*
 
